@@ -1,51 +1,50 @@
 🛍️ Shopping Addiction & Purchase Prediction
 
-Machine Learning Project
-
 📌 About the Project
 
 A Machine Learning project that predicts whether an online shopping visitor will make a purchase based on their browsing behaviour.
 
-🤖 Algorithms Used
+🎯 Objective
+
+To analyse online shoppers’ behaviour and identify potential buyers using Machine Learning.
+
+🤖 Machine Learning Algorithms
 
 * Logistic Regression
-* Decision Tree
-* Random Forest
+* Decision Tree Classifier
+* Random Forest Classifier
 
-🛠️ Technologies
+🛠️ Technologies Used
 
 * Python
-* Pandas & NumPy
-* Matplotlib & Seaborn
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
 * Scikit-learn
 * Streamlit
 
- Features
+✨ Features
 
-* Purchase behaviour prediction
-* Purchase probability estimation
-* Model comparison
-* Interactive user interface
+* Purchase probability prediction
+* Customer browsing behaviour analysis
+* Machine Learning model comparison
+* Interactive prediction interface
 
- Model Evaluation
+📊 Model Evaluation
 
-* Accuracy
-* Precision
-* Recall
-* F1-Score
 * Confusion Matrix
+* Model Comparison
+* Classification Performance
 
- Run the Project
+📁 Project Files
 
-pip install -r requirements.txt
-streamlit run app.py
+* app.py
+* train_model.py
+* requirements.txt
+* online_shoppers_intention.csv
+* model/
 
- GitHub Repository
+👩‍💻 Author
 
-Shopping Purchase Prediction
-
- Author
-
-DEVNA PP
-
-GitHub Profile
+Devna PP
