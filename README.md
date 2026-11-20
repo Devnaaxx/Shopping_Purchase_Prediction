@@ -45,6 +45,10 @@ To analyse online shoppers’ behaviour and identify potential buyers using Mach
 * online_shoppers_intention.csv
 * model/
 
+* 🚀 Live Demo
+
+[🛍️ Launch Shopaholic AI](https://shoppingpurchaseprediction-2mw9nrfh2z46sa7fpneccm.streamlit.app/)
+
 👩‍💻 Author
 
 Devna PP
